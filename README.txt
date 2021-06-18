@@ -2,7 +2,7 @@ View the demo: https://www.youtube.com/watch?v=fmZCIG9rlu8
 
 Description
 
-For my term project, I will be making a board game called "Uncertainty". This is a variation of the board game "Risk" that is based off an online version called Warzone. This game will feature you playing against two AIs, and the ultimate objective is to strategically attack opponents and move your troops to take over the world and all the other territories.
+For my 15-112 class's term project, I will be making a board game called "Uncertainty". This is a variation of the board game "Risk" that is based off an online version called Warzone. This game will feature you playing against two AIs, and the ultimate objective is to strategically attack opponents and move your troops to take over the world and all the other territories.
 
 Running the Project
 
